@@ -248,16 +248,7 @@ Potential improvements for the system:
 - Advanced fraud detection
 - Automated budgeting
 - Multi-currency support
-- Portfolio investment tracking
-
----
-
-## Contributors
-
-- Prakash  
-- Shivani  
-- Druthi  
-- Suhitha  
+- Portfolio investment tracking 
 
 ---
 
